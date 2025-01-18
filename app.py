@@ -3,7 +3,7 @@ import pandas as pd
 import altair as alt
 
 # Load data
-file_path = 'D:\\Downloads\\crime_dataset_india.csv'
+file_path = 'crime_dataset_india.csv'
 data = pd.read_csv(file_path)
 
 # Streamlit App Title
